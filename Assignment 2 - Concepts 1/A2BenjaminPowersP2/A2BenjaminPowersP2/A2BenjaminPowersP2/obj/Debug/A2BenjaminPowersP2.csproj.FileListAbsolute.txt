@@ -1,0 +1,7 @@
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 2\A2BenjaminPowersP2\A2BenjaminPowersP2\A2BenjaminPowersP2\bin\Debug\A2BenjaminPowersP2.exe.config
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 2\A2BenjaminPowersP2\A2BenjaminPowersP2\A2BenjaminPowersP2\bin\Debug\A2BenjaminPowersP2.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 2\A2BenjaminPowersP2\A2BenjaminPowersP2\A2BenjaminPowersP2\bin\Debug\A2BenjaminPowersP2.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 2\A2BenjaminPowersP2\A2BenjaminPowersP2\A2BenjaminPowersP2\obj\Debug\A2BenjaminPowersP2.csprojResolveAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 2\A2BenjaminPowersP2\A2BenjaminPowersP2\A2BenjaminPowersP2\obj\Debug\A2BenjaminPowersP2.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 2\A2BenjaminPowersP2\A2BenjaminPowersP2\A2BenjaminPowersP2\obj\Debug\A2BenjaminPowersP2.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 2\A2BenjaminPowersP2\A2BenjaminPowersP2\A2BenjaminPowersP2\obj\Debug\A2BenjaminPowersP2.pdb
