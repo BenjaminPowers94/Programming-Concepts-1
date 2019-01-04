@@ -1,0 +1,7 @@
+C:\Users\ya_ma\Desktop\Programming Concepts\InClass Assignment 3\InClass3\InClass3\obj\Debug\InClass3.csprojResolveAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\InClass Assignment 3\InClass3\InClass3\obj\Debug\InClass3.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\InClass Assignment 3\InClass3\InClass3\bin\Debug\InClass3.exe.config
+C:\Users\ya_ma\Desktop\Programming Concepts\InClass Assignment 3\InClass3\InClass3\bin\Debug\InClass3.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\InClass Assignment 3\InClass3\InClass3\bin\Debug\InClass3.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts\InClass Assignment 3\InClass3\InClass3\obj\Debug\InClass3.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\InClass Assignment 3\InClass3\InClass3\obj\Debug\InClass3.pdb
