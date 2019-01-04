@@ -1,0 +1,14 @@
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\BENS ASSIGNMENTS\Bens Assignments\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\BENS ASSIGNMENTS\Bens Assignments\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\BENS ASSIGNMENTS\Bens Assignments\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\BENS ASSIGNMENTS\Bens Assignments\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\BENS ASSIGNMENTS\Bens Assignments\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\BENS ASSIGNMENTS\Bens Assignments\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\BENS ASSIGNMENTS\Bens Assignments\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
