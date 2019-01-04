@@ -1,0 +1,21 @@
+G:\PROG1781 Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\bin\Debug\A3BenPowersP1.exe.config
+G:\PROG1781 Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\bin\Debug\A3BenPowersP1.exe
+G:\PROG1781 Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\bin\Debug\A3BenPowersP1.pdb
+G:\PROG1781 Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.csprojResolveAssemblyReference.cache
+G:\PROG1781 Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.csproj.CoreCompileInputs.cache
+G:\PROG1781 Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.exe
+G:\PROG1781 Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\bin\Debug\A3BenPowersP1.exe.config
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\bin\Debug\A3BenPowersP1.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\bin\Debug\A3BenPowersP1.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.csprojResolveAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.pdb
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\Bens Assignments\Bens Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\bin\Debug\A3BenPowersP1.exe.config
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\Bens Assignments\Bens Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\bin\Debug\A3BenPowersP1.exe
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\Bens Assignments\Bens Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\bin\Debug\A3BenPowersP1.pdb
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\Bens Assignments\Bens Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.csprojAssemblyReference.cache
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\Bens Assignments\Bens Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\Bens Assignments\Bens Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.exe
+C:\Users\ya_ma\Desktop\School\Previous courses\Semester 1\Programming Concepts\Assignments\Bens Assignments\Bens Assignments\Assignment 3\A3BenPowersP1\A3BenPowersP1\obj\Debug\A3BenPowersP1.pdb

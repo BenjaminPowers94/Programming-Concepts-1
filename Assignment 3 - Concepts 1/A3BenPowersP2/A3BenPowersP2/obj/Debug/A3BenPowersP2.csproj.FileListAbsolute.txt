@@ -1,0 +1,7 @@
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP2\A3BenPowersP2\bin\Debug\A3BenPowersP2.exe.config
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP2\A3BenPowersP2\bin\Debug\A3BenPowersP2.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP2\A3BenPowersP2\bin\Debug\A3BenPowersP2.pdb
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP2\A3BenPowersP2\obj\Debug\A3BenPowersP2.csprojResolveAssemblyReference.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP2\A3BenPowersP2\obj\Debug\A3BenPowersP2.csproj.CoreCompileInputs.cache
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP2\A3BenPowersP2\obj\Debug\A3BenPowersP2.exe
+C:\Users\ya_ma\Desktop\Programming Concepts\Assignments\Assignment 3\A3BenPowersP2\A3BenPowersP2\obj\Debug\A3BenPowersP2.pdb
